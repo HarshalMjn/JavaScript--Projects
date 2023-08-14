@@ -1,0 +1,23 @@
+
+
+.wrapper {
+ 
+    width:100vw;
+    height:100vh;
+   text-align: center;
+    background-color: turquoise;
+    border:2px solid red;
+} 
+    
+
+button {
+    background-color: #e84949;
+    width:fit-content;
+    color:white;
+    box-shadow: 5px 5px 7px 0px #0000003f;
+    font-size: 18px;
+    
+}
+
+
+

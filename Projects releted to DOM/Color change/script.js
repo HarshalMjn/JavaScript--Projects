@@ -18,9 +18,6 @@ boxes.forEach(function(box) {
         if(e.target.id === 'yellow') {
             body.style.backgroundColor = e.target.id;
         }
-
-    
-        
     })
 
 });
